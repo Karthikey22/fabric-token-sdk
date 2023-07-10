@@ -26,7 +26,7 @@ The project will be subject to rapid changes to complete the open-sourcing proce
 
 # Getting started
 
-Clone the code and make sure it is on your `$GOPATH`.
+Clone the github code and make sure it is on your `$GOPATH`.
 (Important: we assume in this documentation and default configuration that your `$GOPATH` has a single root-directory!).
 Sometimes, we use `$FTS_PATH` to refer to the Fabric Token SDK repository in your filesystem.
 
